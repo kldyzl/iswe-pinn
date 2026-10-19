@@ -1,0 +1,12 @@
+# Outputs and caches (the compiled artefacts live on Zenodo)
+output/
+*/output/
+*.npz
+*.png
+*.pdf
+*.pt
+*.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

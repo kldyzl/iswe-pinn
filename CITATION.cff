@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the dataset and the manuscript."
+title: "Intrinsic shallow-water PINN: code for E1-E3"
+authors:
+  - family-names: Liu
+    given-names: Dinggan
+    affiliation: "School of Mathematics, Sichuan University, Chengdu, China"
+  - family-names: He
+    given-names: Siming
+    affiliation: "Institute of Mountain Hazards and Environment, Chinese Academy of Sciences, Chengdu, China"
+  - family-names: Xie
+    given-names: Xiaoping
+    affiliation: "School of Mathematics, Sichuan University, Chengdu, China"
+  - family-names: Liu
+    given-names: Wei
+    affiliation: "Institute of Mountain Hazards and Environment, Chinese Academy of Sciences, Chengdu, China"
+version: 1.0.0
+date-released: 2026-10-19
+license: MIT
+references:
+  - type: dataset
+    title: "Numerical artefacts for the intrinsic shallow-water PINN experiments (E1-E3): reference solutions, trained fields and diagnostic logs"
+    doi: 10.5281/zenodo.23450658
+    year: 2026

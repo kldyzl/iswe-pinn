@@ -16,7 +16,7 @@ authors:
     affiliation: "Institute of Mountain Hazards and Environment, Chinese Academy of Sciences, Chengdu, China"
 version: 1.0.0
 date-released: 2026-10-19
-license: MIT
+license: CC-BY-4.0
 references:
   - type: dataset
     title: "Numerical artefacts for the intrinsic shallow-water PINN experiments (E1-E3): reference solutions, trained fields and diagnostic logs"

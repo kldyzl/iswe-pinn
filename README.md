@@ -50,8 +50,9 @@ paper one to one.
 
 ## License
 
-- **Code**: MIT (see `LICENSE`).
-- **Archived data and figures** (Zenodo record above): CC BY 4.0.
+Both the code in this repository and the archived data and figures (Zenodo record above) are
+released under the **Creative Commons Attribution 4.0 International** licence (CC BY 4.0);
+see `LICENSE`.
 
 ## Citation
 

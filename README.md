@@ -22,8 +22,9 @@ data dictionary are archived on Zenodo:
 
 ## Requirements
 
-`requirements.txt` lists the versions used for the reported runs
-(Python 3.11, NumPy, Matplotlib, PyTorch 2.6 with CUDA 12.4, SymPy). The PINN runs were
+`requirements.txt` records the exact environment used for the reported runs, including the
+Python and PyTorch builds; install PyTorch from the CUDA 12.4 index to obtain the `+cu124`
+build. The PINN runs were
 executed on a single NVIDIA Quadro RTX 6000 (24 GB) card; the two dam-break runs used one
 card each and were run concurrently.
 
